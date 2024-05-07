@@ -1,0 +1,372 @@
+.nom{ 
+  padding-left: 24rem;
+  position: relative;
+  top: 40px;
+}
+.log{ 
+  border: 1px solid#b6b1b1;
+  width: 42rem;
+  position: relative;
+  right: 4rem;
+  height: 4rem;
+  border-radius: 10px;
+  background-color: #fff;
+}
+.social{
+  position: relative; 
+  left: 70px;
+}
+.navigation{ 
+  position: relative;
+  left: 11rem;
+  bottom: 3.6rem;
+}
+.navigation a{ 
+  text-decoration: none;
+  margin-left: 36px;
+  color:#000;
+  font-size: 1.1em;
+}
+.logo{ 
+  position: relative;
+  left: 1rem;
+}
+.navigation .btnlogin-popur{ 
+  width: 120px;
+  height: 30px;
+  background-color: #f8f7f7;
+  border-radius: 1px solid #a3a3a3;
+  left: 60px;
+  position: relative;
+  top: 0.4rem;
+  border-radius: 6px;
+}
+h2{ 
+  font-size: 60px;
+  position: relative; 
+  right: 2rem;
+}
+.post-title h2 span{ 
+  position: relative;
+  left: 4rem;
+  
+}
+.post-title h5{
+  position: relative;
+  font-size: 18px;
+  color: #6d6c6c;
+  bottom: 2rem;
+}
+.post-title h5 span{ 
+  position: relative;
+  top: 20px;
+  right: 30rem;
+  font-size: 15.8px;
+}
+.post-title button{ 
+     position:relative;
+     left: 12em;
+     top: 20px;
+     width:100px;
+     height:40px;
+     margin:6px;
+     background-color:#fff;
+     border-radius: 7px;
+}
+.post-title button.new{ 
+  background-color:#ff8c00;
+}
+h3{ 
+  position: relative;
+  font-size: 14px;
+  color: #9e9999;
+  top: 4rem;
+  left: 7rem;
+}
+.navbar a{ 
+  padding: 30px;
+  position: relative;
+  top: 6rem;
+  text-decoration: none;
+  font-size: 22px;
+  color: #6d6c6c;
+  right: 4rem;
+}
+header{ 
+  background-color: #f8f8f8;
+  height: 40rem;
+  border: 1px solid#f0eded;
+}
+.wrapper{ 
+  padding: 20px;
+}
+.wrapper p{ 
+  color: #c7c5c5;
+  font-size: 24px;
+}
+.input i{ 
+}
+input{ 
+  width: 540px;
+  height: 44px;
+  border-radius: 10px;
+  border: 1px solid #c7c5c5;
+  font-size: 17px;
+  position: relative;
+  right: 2.7em;
+}
+input.search{ 
+  padding-left: 2em;
+}
+
+.blog1 button{ 
+  position: relative;
+  bottom: 46px;
+  height: 44px;
+  left: 36.4rem;
+  width: 120px;
+  border-radius: 10px;
+  color: #acacac;
+}
+.blog1 button.all{ 
+  background-color: #fdf3f3;
+  border: 1px solid#ff8c00;
+  color: #000;
+}
+.blog1 button.product{ 
+      width: 170px;
+}
+.conteneur{ 
+  display: grid;
+  grid-template-columns: 620px 620px;
+  gap: 10px;
+}
+.box{ 
+  border: 2px solid#000;
+  border-radius: 10px;
+  padding: 10px;
+}
+.conteneur1{ 
+  display: grid;
+  grid-template-columns: 410px 410px 410px;
+  padding-top: 16px;
+  gap: 10px;
+}
+.category{ 
+  font-size: 24px;
+  color: #ff8c00;
+}
+.category span{ 
+  color: #000;
+}
+a { 
+  text-decoration: none;
+  color: #000;
+  font-size: 24px;
+  position: relative;
+  top: 10px;
+}
+.post-description{ 
+  color: #6d6c6c;
+  padding-top: 20px;
+  font-size: 17px;
+}
+.poste{
+  padding-top: 20px;
+  color: #ff8c00;
+  font-size: 26px;
+}
+.conteneur img{
+    width: 100%;
+    border-radius: 10px;
+}
+.conteneur1 img{ 
+   width: 100%;
+   border-radius: 10px;
+}
+.view{ 
+  display: flex;
+  justify-content: center;
+  border: 1px solid#000;
+  position: relative;
+  top: 40px;
+  width: 78rem;
+  height: 60px;
+  border-radius: 10px;
+}
+.view span{ 
+  padding-top: 20px;
+  font-size: 24px;
+}
+.wrapper .tool{ 
+  position: relative;
+  top: 200px;
+  right: 14px;
+}
+.box1{ 
+  border: 2px solid#000;
+  position: relative;
+  left: 1.4rem;
+  top: 12em;
+  padding: 10px;
+  border-radius: 10px;
+}
+.box1 img{ 
+    width: 6rem;
+    height: 6rem;
+}
+.conteneur2{ 
+  display: grid;
+  grid-template-columns: 410px 410px 410px;
+  gap: 10px;
+  position: relative; 
+}
+.box1 p{ 
+  color: #c7c5c5;
+  font-size: 20px;
+}
+.box1 span{ 
+  font-size: 24px;
+  border: 2px solid#000;
+}
+button{
+  width: 94%;
+  height: 3em;
+  font-size: 17px;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid#acacac;
+}
+.site{ 
+  padding-left: 22px;
+  padding-top: 12rem;
+}
+.main{ 
+  padding-top: 9rem;
+ 
+}
+.texte{
+  background-color: #f8f8f8;
+  padding-left: 16rem;
+  height: 42rem;
+  padding-top: 10px;
+  border: 1px solid#f0eded;
+}
+.texte h2{ 
+  font-size: 36px;
+  padding-left: 3rem;
+}
+.texte h5{ 
+  font-size: 18px;
+  position: relative;
+  left: 4rem;
+  bottom: 1rem;
+  color: #5a5959;
+}
+.texte h5 span{
+  position: relative;
+  top: 1rem;
+  right: 30rem;
+}
+.texte button{ 
+  position: relative;
+  left: 16rem;
+  height: 40px;
+  width: 100px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+.texte button.new{ 
+  background-color: #ff8c00;
+}
+.nom2{
+  position: relative;
+  left: 32rem;
+  top: 70px;
+}
+.nom2 .stack{
+  font-size: 27px;
+  position: relative;
+  right: 45.4rem;
+}
+.nom2 .products{ 
+  position: relative;
+  left: 5.4rem;
+}
+.nom2 .social{ 
+  position: relative;
+  left:10.4rem;
+}
+.col{
+  position: relative;
+  top: 60px;
+  right: 13.6rem;
+  color: #747272;
+}
+.col .get{
+    position: relative;
+    bottom: 20px;
+}
+.conteneur4{
+     padding-left: 36rem;
+     color: #747272;
+}
+.public .podcast{
+      padding-left: 60px;
+}
+.public .instagram{
+  padding-left: 90px;
+}
+.public1{ 
+  padding-top: 20px;
+}
+.public2{ 
+  padding-top: 20px;
+}
+.public1 .podcast{
+  padding-left: 100px;
+}
+.public1 .instagram{
+padding-left: 100px;
+}
+.public2 .podcast{
+  padding-left: 90px;
+}
+.public2 .instagram{
+padding-left: 60px;
+}
+p.date{
+  position: relative;
+  top: 4rem;
+  right: 14rem;
+  font-size: 20px;
+  color: #747272;
+}
+.nav p{
+    position: relative; 
+    left: 43.4em;
+    top: 1.4rem;
+    color: #747272;
+    font-size: 20px;
+}
+.nav span{ 
+  position: relative;
+  color: #000;
+}
+.or{ 
+  position: relative;
+  left: 59em;
+  bottom: 14px;
+}
+i{ 
+  position: relative;
+  right: 8em;
+  font-size: 30px;
+  border: 1px solid#e4e4e4;
+  margin-left: 3px;
+  border-radius: 4px;
+  background-color: #fff;
+}
+i .bxbxl-twitter{ 
+  color: #d8d5d5;
+}
