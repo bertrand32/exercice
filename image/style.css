@@ -96,6 +96,10 @@ header{
   background-color: #f8f8f8;
   height: 40rem;
   border: 1px solid#f0eded;
+  width: 90rem;
+}
+footer{ 
+  padding-left: 4em;
 }
 .wrapper{ 
   padding: 20px;
@@ -103,8 +107,6 @@ header{
 .wrapper p{ 
   color: #c7c5c5;
   font-size: 24px;
-}
-.input i{ 
 }
 input{ 
   width: 540px;
@@ -251,6 +253,7 @@ button{
   height: 42rem;
   padding-top: 10px;
   border: 1px solid#f0eded;
+  width: 74rem;
 }
 .texte h2{ 
   font-size: 36px;
@@ -358,7 +361,7 @@ p.date{
   left: 59em;
   bottom: 14px;
 }
-i{ 
+.logo i{ 
   position: relative;
   right: 8em;
   font-size: 30px;
@@ -367,6 +370,7 @@ i{
   border-radius: 4px;
   background-color: #fff;
 }
-i .bxbxl-twitter{ 
-  color: #d8d5d5;
+body{ 
+  border: 2px solid#000;
+  width: 90.2em;
 }
